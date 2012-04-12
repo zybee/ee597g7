@@ -14,3 +14,4 @@ We are mainly studying three different channel allocation schemes :
 3. Hybrid Scheme
 
 We will be designing each of the schemes, and study the performance of the system with each scheme and provide with an optimized solution.
+
